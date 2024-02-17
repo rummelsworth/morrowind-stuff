@@ -149,7 +149,7 @@ be annoying. And minimizing annoyance is part of the goal here.
   - There's an Amulet of Recall for sale at the trader in Caldera, but I don't
     recall where I found an Amulet of Mark. Apparently there's one on a
     mid-level boss NPC near Gnaar Mok. Doesn't matter, it's better (and pretty
-    simple) to have an T-ring enchanted with it.
+    simple) to have a T-ring enchanted with it.
 
 ## Middle game
 

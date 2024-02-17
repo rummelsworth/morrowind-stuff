@@ -153,7 +153,7 @@ be annoying. And minimizing annoyance is part of the goal here.
 
 ## Middle game
 
-- Daedric shrine north of Indoranyon, good sport for grinding daedra at the
+- Daedric shrine north of Indoranyon, good spot for grinding daedra at the
   entrance. Mark here, then DI to Sadrith Mora, then recall back.
 - Once you have the custom Ring of Open (or less likely an Ekash scroll), go to
   Tel Fyr with some Levitate potions and get the CotSH.

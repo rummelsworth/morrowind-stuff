@@ -154,7 +154,9 @@ be annoying. And minimizing annoyance is part of the goal here.
 ## Middle game
 
 - Daedric shrine north of Indoranyon, good spot for grinding daedra at the
-  entrance. Mark here, then DI to Sadrith Mora, then recall back.
+  entrance (by exiting the shrine in sneak mode, assassinating the daedra
+  immediately in front of you, then rinse-repeat). To remove loot and return
+  easily, you can mark here, then DI to Sadrith Mora, then recall back.
 - Once you have the custom Ring of Open (or less likely an Ekash scroll), go to
   Tel Fyr with some Levitate potions and get the CotSH.
 - You can do Larrius Varro's quest to purge the Camonna Tong in Balmora to

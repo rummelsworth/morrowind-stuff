@@ -1,4 +1,21 @@
+<!-- omit from toc -->
 # Cheesing TES3
+
+- [Why](#why)
+- [Abbreviations](#abbreviations)
+- [General play](#general-play)
+- [Starting build](#starting-build)
+- [Early game](#early-game)
+- [Middle game](#middle-game)
+- [Equipment GOALS](#equipment-goals)
+  - [Standard wear](#standard-wear)
+    - [Found](#found)
+    - [Custom-enchanted](#custom-enchanted)
+  - [Utility belt](#utility-belt)
+    - [Found](#found-1)
+    - [Custom-enchanted](#custom-enchanted-1)
+
+## Why
 
 In late 2023, I set out to cheese TES3 as hard as I could. But also as lazily as
 I could. Laborious exploits and alchemical trickery were shunned. I wanted the
@@ -23,10 +40,10 @@ minmaxing.
 
 | Abbreviation | Meaning                      |
 | ------------ | ---------------------------- |
-| C-*          | "common" item                |
-| P-*          | "expensive" item             |
-| T-*          | "extravagant" item           |
-| Q-*          | "exquisite" item             |
+| C-*          | "Common" item                |
+| P-*          | "exPensive" item             |
+| T-*          | "exTravagant" item           |
+| Q-*          | "exQuisite" item             |
 | CoU          | Cast on Use                  |
 | CoS          | Cast on Strike               |
 | CE           | Constant Effect              |
@@ -41,6 +58,8 @@ minmaxing.
 | FA           | Fortify Attribute            |
 | FH           | Frenzy Humanoid              |
 | DF           | Damage Fatigue               |
+| BBa          | Bound Battleaxe              |
+| d*           | daedric                      |
 
 ## General play
 
@@ -68,6 +87,14 @@ I recommend leveling on Strength, Agility, and Endurance until one maxes to 100
 each level up from then on out. Each time you max an attribute to 100, pick
 another one to focus on.
 
+This build's only leveling armor skill is Light Armor, but you'll want to have
+your Medium Armor and Heavy Armor trained up as you discover higher-level gear
+(see below).
+
+By the time you're leveled into the high 20s, you'll probably have enough loot
+laid away to buy all your remaining levels through trainers. The trainers will
+need to be found, and the hostile ones will need calming & persuasion.
+
 ## Starting build
 
 Minmaxed builds tend to converge when 3x5 leveling and trainers are used.
@@ -76,7 +103,8 @@ be annoying. And minimizing annoyance is part of the goal here.
 
 - Race
   - **Breton**
-    - For the Resist Magicka 50. Essential to the laziness of the build.
+    - For the Resist Magicka 50. With early/mid-game retrieval of the CotSH,
+      this is essential to the laziness of the build.
 - Starsign
   - **The Lady**
     - Endurance is great for maxing HP, and the Personality will help you spend
@@ -87,10 +115,10 @@ be annoying. And minimizing annoyance is part of the goal here.
       - You will fight a lot. Early on, you need to hit more than you miss.
     - **Strength**
       - You will fight a lot. Early on, when you hit, you need to hit hard. You
-        also want to carry loot.
+        also want to carry as much loot as possible as early as possible.
   - Major skills
     - **Axe**
-      - Bound Battleaxe.
+      - BBa.
     - **Marksman**
       - Bonemold longbow, then daedric longbow.
     - **Light Armor**
@@ -124,12 +152,13 @@ be annoying. And minimizing annoyance is part of the goal here.
 - Join the Thieves' Guild and the Mages' Guild. You might also join the
   Fighter's Guild for the free potions, but do TG & MG quests, not FG quests.
 - Scrape the barrels and boxes and towers of Balmora, Caldera, Ald'ruhn, and
-  Vivec for loot.
+  Vivec (and any other easy-access place) for loot.
   - Reserve some basic armor from this loot.
-  - Ideally, find a bonemold longbow to keep for a Bound Battleaxe enchant.
+  - Ideally, find a bonemold longbow to keep for a BBa enchant.
   - Sell as much of this (and any other loot) as you can to Creeper in Caldera.
   - You can sell ingredients to Ajira, books to traders.
-- From here, try to have 1 or 2 sujamma in reserve on your person at all times.
+- From here, try to have at least a couple sujamma in reserve on your person at
+  all times.
 - When you feel ready for a tangle with a Dark Brotherhood assassin, find a bed
   and rest.
   - Win the fight and wear the armor.
@@ -138,7 +167,7 @@ be annoying. And minimizing annoyance is part of the goal here.
 - Go find and kill the sketchy merchant with the BoBS on the road northwest of
   Caldera.
   - For now, only wear them when you aren't fighting. Eventually, you'll get the
-    CotSH and the blindness won't be a problem.
+    CotSH and the Blind effect won't be a problem.
 - At some point, you can visit the Vassir-Didanat mine and report its location
   to the hidden Hlaalu guy in Vivec, to get a free daedric longbow.
 - Also at some point, you can go up to Gnisis, then north up to a path
@@ -163,7 +192,7 @@ be annoying. And minimizing annoyance is part of the goal here.
   obtain the Ring of Surroundings. Together with the Amulet of Shadows, it's
   easy access to full Chameleon.
 
-## Equipment
+## Equipment GOALS
 
 In addition to fancy gear that is more or less permanently equipped on your
 person, you'll want to have an inventory of enchanted items (some custom, some
@@ -173,56 +202,93 @@ meet the moment, as appropriate.
 You won't be able to find or create all of these immediately, but they're things
 to search for and/or work toward.
 
-### Custom
-
-Lots of rings, because they're light and can hold large enchantments.
-
-Several of these enchants can hold "filler" effects (usually Fortify Strength
-for a couple points or so) to reach the maximum enchantment size for the item.
-For items "smaller" than X-*, you can upgrade the item for more "room" for
-fillers. This is only recommended for CE enchants.
+Several of the custom-enchanted items below can hold "filler" effects (usually
+Fortify Strength for a couple points or so) to reach the maximum enchantment
+size for the item. For items "smaller" than Q-*, you can upgrade the item for
+more "room" for fillers. This is only recommended for CE enchants.
 
 Some items might be hard to find (e.g. daedric tower shield), in which case you
 can substitute a similar but more common item (e.g. daedric shield).
 
-You might want to reduce the magnitude of some enchants, e.g. Bound Battleaxe,
-to reduce the casting cost when the longer duration or larger magnitude wouldn't
-usually be helpful. For example, a melee encounter might take 30s or less, so
-the cost-benefit ratio might not be sensible for a 400s duration on a bound
+You might want to reduce the magnitude of some enchants, e.g. BBa, to reduce the
+casting cost when the longer duration or larger magnitude wouldn't usually be
+helpful. For example, a melee encounter might take 30s or less, so the
+cost-benefit ratio might not be sensible for a 400s duration on a bound
 battleaxe. On the other hand, for high Enchant skill and large souls, there
 might not be a good reason to hold back on the better effect. Another example is
 the custom Ring of Open. Using Touch instead of Target halves the casting cost.
 
-| Name                   | Raw item                  | Effect(s)                             | Trigger | Notes |
-| ---------------------- | ------------------------- | ------------------------------------- | ------- | ----- |
-| Ring of Mark           | T-ring                    | Mark on Self                          | CoU     |       |
-| Ring of Recall         | T-ring                    | Recall on Self                        | CoU     |       |
-| Ring of DI             | P-ring                    | DI on Self                            | CoU     |       |
-| Ring of AI             | P-ring                    | AI on Self                            | CoU     |       |
-| Ring of Open           | T-ring                    | Open 100 on Target                    | CoU     | CotSH |
-| Ring of Soultrap       | P-ring                    | Soultrap for 106s on Target           | CoU     |       |
-| Ring of FH             | P-ring                    | FH 100 for 1s on Target               | CoU     |       |
-| Amulet of Nighteye     | Q-amulet                  | Nighteye 100                          | CE      |       |
-| Ring of CH             | T-ring                    | CH 100 for 8s in 26ft on Target       | CoU     |       |
-| Ring of Levitate       | P-ring                    | Levitate 1                            | CE      |       |
-| Ring of WB             | P-ring                    | WB                                    | CE      |       |
-| "Ring of the Wayfarer" | Q-ring                    | WW, SF 1, Jump 3                      | CE      |       |
-| Ring of Strength       | Q-ring                    | FA Strength 24                        | CE      | x2    |
-| "Loose Shirt"          | Q-shirt                   | Resist Paralysis 60                   | CE      |       |
-| "Loose Robe"           | Q-robe                    | Resist Paralysis 40                   | CE      |       |
-| "Conservative Skirt"   | Q-skirt                   | Restore Fatigue 12                    | CE      | !     |
-| "Shield of Analepsis"  | daedric (tower) shield    | Restore Health 6(9)                   | CE      | !     |
-| Belt of Strength       | Q-belt                    | FA Strength 8                         | CE      |       |
-| Pants of Strength      | Q-pants                   | FA Strength 12                        | CE      |       |
-| Ring of DF             | Q-ring                    | DF 100 for 4s on Target               | CoU     |       |
-| "Bow of Combined Arms" | bonemold(daedric) longbow | Bound Battleaxe for 409(109)s on Self | CoU     |       |
-| Ring of Chameleon      | Q-ring                    | Chameleon 100 for 24s on Self         | CoU     |       |
+### Standard wear
 
-### Found
+These are items you'll probably wear/wield a lot (once you have them).
 
-| Name                 | Effect(s)                        | Trigger | Notes |
-| -------------------- | -------------------------------- | ------- | ----- |
-| Amulet of Shadows    | Chameleon 80 for 60s on Self     | CoU     |       |
-| Ring of Surroundings | Chameleon 20--30 for 30s on Self | CoU     |       |
-| CotSH                | Resist Magicka 60                | CE      |       |
-| BoBS                 | Blind 100, FA Speed 200          | CE      |       |
+#### Found
+
+| Name                   | Slot           |
+| ---------------------- | -------------- |
+| CotSH                  | cuirass        |
+| Helm of Oreyn Bearclaw | helmet         |
+| Fist of Randagulf      | right gauntlet |
+| Fist of Randagulf      | left gauntlet  |
+| Wraithguard            | right gauntlet |
+| Sunder                 | weapon         |
+| Ebony Mail             | cuirass        |
+| BoBS                   | boots          |
+| glass/daedric          | greaves        |
+| glass/daedric          | left pauldron  |
+| glass/daedric          | right pauldron |
+| Boots of the Apostle   | boots          |
+| dwarven darts          | weapon         |
+
+#### Custom-enchanted
+
+| Name                 | Raw item         | Effect(s)            | Trigger |
+| -------------------- | ---------------- | -------------------- | ------- |
+| Amulet of Nighteye   | Q-amulet         | Nighteye 100         | CE      |
+| Belt of Strength     | Q-belt           | FA Strength 8        | CE      |
+| Pants of Strength    | Q-pants          | FA Strength 12       | CE      |
+| Robe of Movement     | Q-robe           | Resist Paralysis 40  | CE      |
+| Shirt of Movement    | Q-shirt          | Resist Paralysis 60  | CE      |
+| Skirt of Vigor       | Q-skirt          | Restore Fatigue 12   | CE      |
+| Axe Bow (1)          | bonemold longbow | BBa for 409s on Self | CoU     |
+| Axe Bow (2)          | d* longbow       | BBa for 109s on Self | CoU     |
+| Shield of Health (1) | d* shield        | Restore Health 6     | CE      |
+| Shield of Health (2) | d* tower shield  | Restore Health 9     | CE      |
+
+### Utility belt
+
+The "found" items are generally things you'll encounter early and then replace
+with the custom-enchanted items.
+
+#### Found
+
+| Name                 | Effect(s)                        | Trigger |
+| -------------------- | -------------------------------- | ------- |
+| Amulet of Shadows    | Chameleon 80 for 60s on Self     | CoU     |
+| Ring of Surroundings | Chameleon 20--30 for 30s on Self | CoU     |
+
+#### Custom-enchanted
+
+Lots of rings, because they're light and can hold large enchantments.
+
+Some of these have relatively accessible and cheap counterparts among the
+vendors and loot you'll find. (Amulets, clothing, etc.) If necessary, feel free
+to use whatever is at hand. These are listed here as "the ideal" in that they
+are all as light as possible while achieving the desired effect.
+
+| Name                 | Raw item | Effect(s)                       | Trigger | Notes |
+| -------------------- | -------- | ------------------------------- | ------- | ----- |
+| Ring of AI           | P-ring   | AI on Self                      | CoU     |       |
+| Ring of CH           | T-ring   | CH 100 for 8s in 26ft on Target | CoU     |       |
+| Ring of Chameleon    | Q-ring   | Chameleon 100 for 24s on Self   | CoU     |       |
+| Ring of DF           | Q-ring   | DF 100 for 4s on Target         | CoU     |       |
+| Ring of DI           | P-ring   | DI on Self                      | CoU     |       |
+| Ring of FH           | P-ring   | FH 100 for 1s on Target         | CoU     |       |
+| Ring of Levitate     | P-ring   | Levitate 1                      | CE      |       |
+| Ring of Mark         | T-ring   | Mark on Self                    | CoU     |       |
+| Ring of Open         | T-ring   | Open 100 on Target              | CoU     |       |
+| Ring of Recall       | T-ring   | Recall on Self                  | CoU     |       |
+| Ring of Soultrap     | P-ring   | Soultrap for 106s on Target     | CoU     |       |
+| Ring of Strength     | Q-ring   | FA Strength 24                  | CE      | x2    |
+| Ring of WB           | P-ring   | WB                              | CE      |       |
+| Ring of the Wayfarer | Q-ring   | WW, SF 1, Jump 3                | CE      |       |

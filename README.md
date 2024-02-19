@@ -110,6 +110,10 @@ be annoying. And minimizing annoyance is part of the goal here.
     - Endurance is great for maxing HP, and the Personality will help you spend
       a little less money on persuasion.
 - Custom class
+  - Specialization
+    - **Stealth**
+      - You'll be doing a lot of combat, but your most important early game
+        skills are in stealth.
   - Favored attributes
     - **Agility**
       - You will fight a lot. Early on, you need to hit more than you miss.

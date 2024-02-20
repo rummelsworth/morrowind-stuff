@@ -5,6 +5,7 @@
 - [Abbreviations](#abbreviations)
 - [General play](#general-play)
 - [Starting build](#starting-build)
+- [Starting out](#starting-out)
 - [Early game](#early-game)
 - [Middle game](#middle-game)
 - [Equipment GOALS](#equipment-goals)
@@ -103,8 +104,10 @@ be annoying. And minimizing annoyance is part of the goal here.
 
 - Race
   - **Breton**
-    - For the Resist Magicka 50. With early/mid-game retrieval of the CotSH,
-      this is essential to the laziness of the build.
+    - Mainly for the Resist Magicka 50. With early/mid-game retrieval of the
+      CotSH, this is essential to the laziness of the build.
+    - But also for the Dragon Skin ability, which is a great bootstrapper for
+      the very early game.
 - Starsign
   - **The Lady**
     - Endurance is great for maxing HP, and the Personality will help you spend
@@ -148,33 +151,57 @@ be annoying. And minimizing annoyance is part of the goal here.
     - **Speechcraft**
       - Eventually, you'll want to replace your bribes with words.
 
+## Starting out
+
+> If you're playing at high/max difficulty (and perhaps even if you're not),
+> it's always a good idea to drink a sujamma or two before combat.
+
+- Equip yourself thusly:
+  - Grab a "shard axe" (iron battleaxe enchanted with some variable frost
+    damage) from a hollow log next to the Seyda Neen lighthouse. This will
+    require a couple small jumps.
+  - Go to Balmora. Deliver the package to Caius. Join the TG, FG, and MG. Grab
+    the health and fatigue potions from the FG.
+  - With your Dragon Skin ability ready to immediately cast, go rest in a bed
+    (e.g. in the MG basement) until a Dark Brotherhood assassin attacks you.
+    Modulo drinking potions to stay alive and at high fatigue, cast Dragon Skin
+    and then kill the assassin. Equip the assassin's armor.
+  - Guide-travel to Caldera and walk northwest along the road until you
+    encounter the sketchy trader with the BoBS. Agree to escort her, then turn
+    around and kill her. Take her stuff and, unless you're in combat (until you
+    have the CotSH), wear the boots.
+  - Go to Vassir-Didanat Mine, enter and immediately leave, then go to Dram Bero
+    in Vivec (St. Olm's canton plaza "haunted" manor, through a locked door with
+    a good pick found in the same room). Tell him about the mine, then choose
+    the daedric long bow.
+
 ## Early game
 
-- Grab a decent axe in a hollow log near the Seyda Neen lighthouse.
-- Go to Balmora and deliver the package and get help from Cosades and all the
-  Blades members.
-- Join the Thieves' Guild and the Mages' Guild. You might also join the
-  Fighter's Guild for the free potions, but do TG & MG quests, not FG quests.
-- Scrape the barrels and boxes and towers of Balmora, Caldera, Ald'ruhn, and
-  Vivec (and any other easy-access place) for loot.
-  - Reserve some basic armor from this loot.
-  - Ideally, find a bonemold longbow to keep for a BBa enchant.
-  - Sell as much of this (and any other loot) as you can to Creeper in Caldera.
-  - You can sell ingredients to Ajira, books to traders.
-- From here, try to have at least a couple sujamma in reserve on your person at
-  all times.
-- When you feel ready for a tangle with a Dark Brotherhood assassin, find a bed
-  and rest.
-  - Win the fight and wear the armor.
-  - If you get more visitors in the night, sell their stuff. It's light and
-    quite valuable.
-- Go find and kill the sketchy merchant with the BoBS on the road northwest of
-  Caldera.
-  - For now, only wear them when you aren't fighting. Eventually, you'll get the
-    CotSH and the Blind effect won't be a problem.
-- At some point, you can visit the Vassir-Didanat mine and report its location
-  to the hidden Hlaalu guy in Vivec, to get a free daedric longbow.
-- Also at some point, you can go up to Gnisis, then north up to a path
+- **The very next goal is the CotSH.**
+  - You will need a lot of money, primarily for a very expensive
+    custom-enchanted "Ring of Open" (Open 100 on Touch). This ring can be a
+    general tool, but it's specifically meant for the armoire in Tel Fyr that
+    contains the CotSH. You probably don't need a huge soul for the enchanting,
+    but do try to get the largest soul you can reasonably find. Keep in mind
+    that you will need at least a T-ring to hold this enchantment.
+  - To get up to the top floor of the Tel Fyr tower, you'll also need one or
+    more potions and/or scrolls of levitate and/or jump.
+- Favor TG quests over FG quests. Otherwise do whatever you want.
+- Sell loot to Creeper (in Caldera). He won't buy unenchanted clothing, books,
+  paper, light sources, ingredients, or alchemy equipment. You can sell that
+  other stuff to any trader, e.g. Verick Gemain (in Caldera).
+  - You can steal (even openly) the orcish armor in a crate on the top floor of
+    Ghorak Manor. It's very valuable at this point, and Creeper is right there
+    waiting to buy it.
+  - Later, when Creeper's funds are too limited and you have easier access to
+    the Mudcrab Merchant, you can try going to the latter as well. He doesn't
+    buy quite as broadly as Creeper, but he has twice the funds. (Plus a little
+    restocking supply of sujamma.)
+- You can get repeated visits from Dark Brotherhood assassins until you go talk
+  to a guy in the Ebonheart castle yard about going to Mournhold. This can be
+  good, and it can be bad. Good for the loot. Bad if you're unable to handle the
+  potentially multiple assassins that can arrive all at once.
+- At some point, you can go up to Gnisis, then north up to a path
   intersection near a small pond and a bridge, where you can kill a couple
   bandits who try to trick you, obtaining the Amulet of Shadows.
 - You can get a couple amulets of Divine & Almsivi intervention from a quick
@@ -190,8 +217,6 @@ be annoying. And minimizing annoyance is part of the goal here.
   entrance (by exiting the shrine in sneak mode, assassinating the daedra
   immediately in front of you, then rinse-repeat). To remove loot and return
   easily, you can mark here, then DI to Sadrith Mora, then recall back.
-- Once you have the custom Ring of Open (or less likely an Ekash scroll), go to
-  Tel Fyr with some Levitate potions and get the CotSH.
 - You can do Larrius Varro's quest to purge the Camonna Tong in Balmora to
   obtain the Ring of Surroundings. Together with the Amulet of Shadows, it's
   easy access to full Chameleon.

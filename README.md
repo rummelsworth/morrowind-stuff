@@ -1,6 +1,12 @@
 <!-- omit from toc -->
 # Cheesing TES3
 
+> Warning... This is very much a work in progress. I brainstormed the skeleton
+> of it after a mildly bumbling playthrough, then while writing it began testing
+> the ideas with a fresh crit on max difficulty. Lots of rewording and
+> clarifications and details re-remembered, but the idea has definitely
+> withstood testing so far...
+
 - [Why](#why)
 - [Abbreviations](#abbreviations)
 - [General play](#general-play)
@@ -27,7 +33,10 @@ speedrunning, but minimizing number of inputs rather than minimizing time.
 I succeeded.
 
 What follows here is a very rough guide to repeat what I did, but more lazily
-and more powerfully. More cheesily.
+and more powerfully. More cheesily. I think the path laid out here is one that
+can be followed relatively easily on difficulty 100. (And without casting any
+spells; only casting through enchanted items. Not really that much more
+difficult, just more expensive...)
 
 If you like RP builds, this is probably not an approach you would like. I
 wouldn't say I did no RP, but the most RP thing I did was to be an extremely
@@ -35,7 +44,7 @@ radical & violent abolitionist. And frankly, this took a backseat to the
 minmaxing.
 
 > These notes are not a replacement for a resource like UESP. They should be
-> read with UESP to supplement some details, e.g. 3x5 leveling.
+> read with UESP to supplement many details, e.g. 3x5 leveling.
 
 ## Abbreviations
 
@@ -52,7 +61,7 @@ minmaxing.
 | CotSH        | Cuirass of the Savior's Hide |
 | DI           | Divine Intervention          |
 | AI           | Almsivi Intervention         |
-| CH           | Calm Humanoid                |
+| CalmH        | Calm Humanoid                |
 | WB           | Water Breathing              |
 | WW           | Water Walking                |
 | SF           | SlowFall                     |
@@ -64,7 +73,7 @@ minmaxing.
 
 ## General play
 
-Money is everything. Well, it's training, and training is essential to minmaxing
+**Money is everything.** Well, it's training, and training is essential to minmaxing
 in TES3, for the easiest and most efficient 3x5 leveling. You need *lots of
 money* for training.
 
@@ -83,18 +92,22 @@ them, because you just don't need all that money right now.
 All guidance below assumes you are also being careful to watch your major/minor
 skills and level efficiently with the help of appropriate trainers.
 
-I recommend leveling on Strength, Agility, and Endurance until one maxes to 100
-(at about level 10), and then you finish maxing the other two while hitting Luck
-each level up from then on out. Each time you max an attribute to 100, pick
-another one to focus on.
+I recommend leveling on *Personality* (for maxing Mercantile ASAP), Agility, and
+Endurance until Personality maxes to 100 (at about level 8 with the Lady
+starsign), then you replace that "slot" with Strength, then on the next max
+(should be Endurance) you start leveling Luck plus any two (prioritizing
+Agility, Strength, Speed, Intelligence). Each time you max an attribute to
+100, pick another one to focus on.
 
 This build's only leveling armor skill is Light Armor, but you'll want to have
 your Medium Armor and Heavy Armor trained up as you discover higher-level gear
 (see below).
 
-By the time you're leveled into the high 20s, you'll probably have enough loot
-laid away to buy all your remaining levels through trainers. The trainers will
-need to be found, and the hostile ones will need calming & persuasion.
+By the time you're leveled into the high 20s *(edit: during testing, realizing
+this point can be reached by level 5 or possibly earlier...)*, you'll probably
+have enough loot laid away to buy all your remaining levels through trainers.
+The trainers will need to be found, and the hostile ones will need calming &
+persuasion.
 
 ## Starting build
 
@@ -104,8 +117,8 @@ be annoying. And minimizing annoyance is part of the goal here.
 
 - Race
   - **Breton**
-    - Mainly for the Resist Magicka 50. With early/mid-game retrieval of the
-      CotSH, this is essential to the laziness of the build.
+    - Mainly for the Resist Magicka 50. With early-game retrieval of the CotSH,
+      this is essential to the laziness of the build.
     - But also for the Dragon Skin ability, which is a great bootstrapper for
       the very early game.
 - Starsign
@@ -125,9 +138,9 @@ be annoying. And minimizing annoyance is part of the goal here.
         also want to carry as much loot as possible as early as possible.
   - Major skills
     - **Axe**
-      - BBa.
+      - BBa-enchanted bow.
     - **Marksman**
-      - Bonemold longbow, then daedric longbow.
+      - Daedric bow from Dram Bero.
     - **Light Armor**
       - Dark Brotherhood surplus & BoBS. Then CotSH for total Resist Magicka
         110 through to late game.
@@ -170,22 +183,74 @@ be annoying. And minimizing annoyance is part of the goal here.
     encounter the sketchy trader with the BoBS. Agree to escort her, then turn
     around and kill her. Take her stuff and, unless you're in combat (until you
     have the CotSH), wear the boots.
+    - **DO NOT FORGET TO TAKE OFF THESE BOOTS FOR COMBAT!!!** (until you get the
+      CotSH...)
   - Go to Vassir-Didanat Mine, enter and immediately leave, then go to Dram Bero
     in Vivec (St. Olm's canton plaza "haunted" manor, through a locked door with
     a good pick found in the same room). Tell him about the mine, then choose
     the daedric long bow.
+    - You'll need about 5k gp to get a max BBa enchantment on this bow. Once you
+      have the BBa, ditch the shard axe.
 
 ## Early game
 
-- **The very next goal is the CotSH.**
+> Messy notes to integrate later: Forget the Ring of Surroundings. Buy a
+> Shadowweave Ring from Irgola (Caldera) to complement the Amulet of Shadows (if
+> it's a fixed item in that vendor's inventory?), then use the AoS (or maybe
+> also the SwR) to go get a Shadowmask Ring (**actually a Ring of
+> Surroundings???**) from Dren Plantation, Tower Shack (and if you kill the guy
+> there, he's apparently got a daedric dai-katana, worth 120k, which is nice but
+> useless until you get some smaller denominations built up in Creeper's
+> inventory). Also, don't level Strength to start. Level Personality instead,
+> until you get to 100. In your leveling skills, train only Mercantile.
+> Otherwise train Spear and Block. Buy the Amulet of Recall from Verick. Buy a
+> Potion of Marking from Nalcarya (in Balmora). Carefully make your way
+> (avoiding isolated Ashlander camps and wildlife) to Zainab Camp and bribe
+> Abibael Timsar-Dadisun up to 100 Disposition (definitely can cheese the
+> persuasion a little by making a ton of small Barter transactions with him).
+> Mark in the middle of Zainab Camp. Use Amulet of DI to extract yourself to
+> Sadrith Mora and guild-guide from there. Use Amulet of Recall to get back to
+> Zainab when you level up and need Mercantile training again. ALWAYS MAINTAIN
+> SOME LIQUIDITY. Do not overspend on training. You need the liquidity to apply
+> persuasion during quests. But also: Once you have the 100+ Chameleon, you can
+> go raid the Tower of Dusk at Ghostgate for a ton of glass equipment. (You
+> still have to sneak! They can still spot you if you're too obvious...) There's
+> also a few pieces of ebony armor in the Tower of Dawn vault. Once you have
+> this loot... you're basically set. The game will be, temporarily, all about
+> cashing it in with Creeper (and possibly Mudcrab Merchant, but he's out in the
+> boonies), and then flitting hither and thither for training.
+
+- **The immediate goal is the CotSH.**
   - You will need a lot of money, primarily for a very expensive
-    custom-enchanted "Ring of Open" (Open 100 on Touch). This ring can be a
-    general tool, but it's specifically meant for the armoire in Tel Fyr that
-    contains the CotSH. You probably don't need a huge soul for the enchanting,
-    but do try to get the largest soul you can reasonably find. Keep in mind
-    that you will need at least a T-ring to hold this enchantment.
+    custom-enchanted "Ring of Open" (Open 100 on Touch), about 15k gp. This ring
+    can be a general tool, but it's specifically meant for the armoire in Tel
+    Fyr that contains the CotSH. You probably don't need a huge soul for the
+    enchanting, but do try to get the largest soul you can reasonably find.
+    Minimum soul size 100 probably. Keep in mind that you will need at least a
+    T-ring to hold this enchantment.
   - To get up to the top floor of the Tel Fyr tower, you'll also need one or
-    more potions and/or scrolls of levitate and/or jump.
+    more potions and/or scrolls of levitate and/or jump. Fortunately, there are
+    two potions of levitate waiting for you on a shelf in the lower level of the
+    area which calls for them.
+- **To facilitate looting** and the completion of some quests, you will want the
+  **Amulet of Shadows** from the bandits north of Gnisis. Top this off with the
+  Ring of Surroundings from Larrius Varro (or the Dren plantation tower shack),
+  and you're basically all set for stealth work. A single ring with 100
+  Chameleon is more convenient, but this will do fine for now.
+  - [TEST] Varro's quest is easier if you have the Ring of FrenzyH (about 3k
+    gp). Your early speechcraft is garbage and bribing will get annoying and/or
+    impossible if you try to prep taunt attempts with high disposition.
+    - Big problem. Frenzy on any of the 3 central thugs will trigger all of
+      them. On max difficulty, that's a big problem. Might be better to simply
+      sneak and murder with Amulet of Shadows. Maybe also the potion of shadow
+      to pull the whole deed off. More problems, though: Low agility means I
+      can't hit these dudes even when sneaking.
+- You can get a couple amulets of Divine & Almsivi intervention as a reward for
+  an MG quest given by the guild leader in Ald'ruhn.
+  - There's an Amulet of Recall for sale at the trader in Caldera, but I don't
+    recall where I found an Amulet of Mark. Apparently there's one on a
+    mid-level boss NPC near Gnaar Mok. Doesn't matter, it's better (and pretty
+    simple) to have a T-ring enchanted with it.
 - Favor TG quests over FG quests. Otherwise do whatever you want.
 - Sell loot to Creeper (in Caldera). He won't buy unenchanted clothing, books,
   paper, light sources, ingredients, or alchemy equipment. You can sell that
@@ -201,15 +266,10 @@ be annoying. And minimizing annoyance is part of the goal here.
   to a guy in the Ebonheart castle yard about going to Mournhold. This can be
   good, and it can be bad. Good for the loot. Bad if you're unable to handle the
   potentially multiple assassins that can arrive all at once.
-- At some point, you can go up to Gnisis, then north up to a path
-  intersection near a small pond and a bridge, where you can kill a couple
-  bandits who try to trick you, obtaining the Amulet of Shadows.
-- You can get a couple amulets of Divine & Almsivi intervention from a quick
-  quest on the road along the north edge of Lake Amaya.
-  - There's an Amulet of Recall for sale at the trader in Caldera, but I don't
-    recall where I found an Amulet of Mark. Apparently there's one on a
-    mid-level boss NPC near Gnaar Mok. Doesn't matter, it's better (and pretty
-    simple) to have a T-ring enchanted with it.
+- Try to get a Ring of Charm 50/2s or so. Bribing is nice, but it's best for
+  folks with whom you will have repeated dealings. Like trainers. One-off
+  interactions (e.g. for quests) are best handled with a long-term cheaper
+  method.
 
 ## Middle game
 
@@ -217,9 +277,6 @@ be annoying. And minimizing annoyance is part of the goal here.
   entrance (by exiting the shrine in sneak mode, assassinating the daedra
   immediately in front of you, then rinse-repeat). To remove loot and return
   easily, you can mark here, then DI to Sadrith Mora, then recall back.
-- You can do Larrius Varro's quest to purge the Camonna Tong in Balmora to
-  obtain the Ring of Surroundings. Together with the Amulet of Shadows, it's
-  easy access to full Chameleon.
 
 ## Equipment GOALS
 
@@ -271,18 +328,17 @@ These are items you'll probably wear/wield a lot (once you have them).
 
 #### Custom-enchanted
 
-| Name                 | Raw item         | Effect(s)            | Trigger |
-| -------------------- | ---------------- | -------------------- | ------- |
-| Amulet of Nighteye   | Q-amulet         | Nighteye 100         | CE      |
-| Belt of Strength     | Q-belt           | FA Strength 8        | CE      |
-| Pants of Strength    | Q-pants          | FA Strength 12       | CE      |
-| Robe of Movement     | Q-robe           | Resist Paralysis 40  | CE      |
-| Shirt of Movement    | Q-shirt          | Resist Paralysis 60  | CE      |
-| Skirt of Vigor       | Q-skirt          | Restore Fatigue 12   | CE      |
-| Axe Bow (1)          | bonemold longbow | BBa for 409s on Self | CoU     |
-| Axe Bow (2)          | d* longbow       | BBa for 109s on Self | CoU     |
-| Shield of Health (1) | d* shield        | Restore Health 6     | CE      |
-| Shield of Health (2) | d* tower shield  | Restore Health 9     | CE      |
+| Name                 | Raw item        | Effect(s)            | Trigger |
+| -------------------- | --------------- | -------------------- | ------- |
+| Amulet of Nighteye   | Q-amulet        | Nighteye 100         | CE      |
+| Belt of Strength     | Q-belt          | FA Strength 8        | CE      |
+| Pants of Strength    | Q-pants         | FA Strength 12       | CE      |
+| Robe of Movement     | Q-robe          | Resist Paralysis 40  | CE      |
+| Shirt of Movement    | Q-shirt         | Resist Paralysis 60  | CE      |
+| Skirt of Vigor       | Q-skirt         | Restore Fatigue 12   | CE      |
+| Axe Bow              | d* longbow      | BBa for 109s on Self | CoU     |
+| Shield of Health (1) | d* shield       | Restore Health 6     | CE      |
+| Shield of Health (2) | d* tower shield | Restore Health 9     | CE      |
 
 ### Utility belt
 
@@ -305,19 +361,20 @@ vendors and loot you'll find. (Amulets, clothing, etc.) If necessary, feel free
 to use whatever is at hand. These are listed here as "the ideal" in that they
 are all as light as possible while achieving the desired effect.
 
-| Name                 | Raw item | Effect(s)                       | Trigger | Notes |
-| -------------------- | -------- | ------------------------------- | ------- | ----- |
-| Ring of AI           | P-ring   | AI on Self                      | CoU     |       |
-| Ring of CH           | T-ring   | CH 100 for 8s in 26ft on Target | CoU     |       |
-| Ring of Chameleon    | Q-ring   | Chameleon 100 for 24s on Self   | CoU     |       |
-| Ring of DF           | Q-ring   | DF 100 for 4s on Target         | CoU     |       |
-| Ring of DI           | P-ring   | DI on Self                      | CoU     |       |
-| Ring of FH           | P-ring   | FH 100 for 1s on Target         | CoU     |       |
-| Ring of Levitate     | P-ring   | Levitate 1                      | CE      |       |
-| Ring of Mark         | T-ring   | Mark on Self                    | CoU     |       |
-| Ring of Open         | T-ring   | Open 100 on Target              | CoU     |       |
-| Ring of Recall       | T-ring   | Recall on Self                  | CoU     |       |
-| Ring of Soultrap     | P-ring   | Soultrap for 106s on Target     | CoU     |       |
-| Ring of Strength     | Q-ring   | FA Strength 24                  | CE      | x2    |
-| Ring of WB           | P-ring   | WB                              | CE      |       |
-| Ring of the Wayfarer | Q-ring   | WW, SF 1, Jump 3                | CE      |       |
+| Name                 | Raw item | Effect(s)                          | Trigger | Notes |
+| -------------------- | -------- | ---------------------------------- | ------- | ----- |
+| Ring of AI           | P-ring   | AI on Self                         | CoU     |       |
+| Ring of CalmH        | T-ring   | CalmH 100 for 8s in 26ft on Target | CoU     |       |
+| Ring of Chameleon    | Q-ring   | Chameleon 100 for 24s on Self      | CoU     |       |
+| Ring of DF           | Q-ring   | DF 100 for 4s on Target            | CoU     |       |
+| Ring of DI           | P-ring   | DI on Self                         | CoU     |       |
+| Ring of FH           | P-ring   | FH 100 for 1s on Target            | CoU     |       |
+| Ring of Levitate     | P-ring   | Levitate 1                         | CE      |       |
+| Ring of Mark         | T-ring   | Mark on Self                       | CoU     |       |
+| Ring of Open         | T-ring   | Open 100 on Target                 | CoU     |       |
+| Ring of Recall       | T-ring   | Recall on Self                     | CoU     |       |
+| Ring of Soultrap     | P-ring   | Soultrap for 106s on Target        | CoU     |       |
+| Ring of Strength     | Q-ring   | FA Strength 24                     | CE      | x2    |
+| Ring of WB           | P-ring   | WB                                 | CE      |       |
+| Ring of the Wayfarer | Q-ring   | WW, SF 1, Jump 3                   | CE      |       |
+| Ring of Charm        | ?        | Charm 50 for 2s on Touch           | CoU     |       |

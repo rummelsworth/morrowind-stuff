@@ -5,7 +5,13 @@
 > of it after a mildly bumbling playthrough, then while writing it began testing
 > the ideas with a fresh crit on max difficulty. Lots of rewording and
 > clarifications and details re-remembered, but the idea has definitely
-> withstood testing so far...
+> withstood testing so far... *However*, I've also stopped developing and
+> elaborating this doc. Something "cracked" in my Morrowind psyche when I
+> discovered (for myself) the crazy bug(s) involving Mercantile and merchants'
+> buy/sell behavior. These issues are supposedly resolved by MCP but are
+> definitely not resolved by OpenMW. Feels like I'm probably stopping for good.
+> Been wanting to try several other more modern games anyway, so I guess it's
+> the Hand of Fate.
 
 - [Why](#why)
 - [Abbreviations](#abbreviations)
@@ -33,10 +39,10 @@ speedrunning, but minimizing number of inputs rather than minimizing time.
 I succeeded.
 
 What follows here is a very rough guide to repeat what I did, but more lazily
-and more powerfully. More cheesily. I think the path laid out here is one that
-can be followed relatively easily on difficulty 100. (And without casting any
-spells; only casting through enchanted items. Not really that much more
-difficult, just more expensive...)
+and more powerfully. More cheesily. And what's more, with **no alchemy** and
+with **no spell-*casting***. Found and store-bought potions and scrolls are
+fine, as well as any (including custom) enchanted items. I think the path laid
+out here is one that can be followed relatively easily on difficulty 100.
 
 If you like RP builds, this is probably not an approach you would like. I
 wouldn't say I did no RP, but the most RP thing I did was to be an extremely
